@@ -7,8 +7,8 @@ export type Site = {
   desc: string;
   title: string;
   ogImage?: string;
-  fbApp_id: string;
-  ogType: string;
+  //fbApp_id: string;
+  //ogType: string;
   lightAndDarkMode: boolean;
   postPerIndex: number;
   postPerPage: number;
