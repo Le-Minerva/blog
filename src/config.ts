@@ -7,8 +7,8 @@ export const SITE: Site = {
   desc: "Personal blog of Le-Minerva.",
   title: "Le-Minerva's Blog",
   ogImage: "/blog/astropaper-og.jpg",
-  app_id: "966242223397117",
-  type: "website",
+  fbApp_id: "966242223397117",
+  ogType: "website",
   lightAndDarkMode: true,
   postPerIndex: 4, //4 blogs on index
   postPerPage: 3, //3 blogs per page
