@@ -149,7 +149,7 @@ Example: Assume `example.jpg` is located at `/public/assets/images/example.jpg`.
 
 <!-- OR -->
 
-<img src="/assets/images/example.jpg" alt="something">
+<img src="/blog/assets/images/example.jpg" alt="something">
 ```
 
 ## Bonus
