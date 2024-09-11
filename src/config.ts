@@ -2,14 +2,14 @@ import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
   website: "https://Le-Minerva.github.io", // replace this with your deployed domain
-  author: "Sat Naing",
+  author: "Le-Minerva",
   profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
-  ogImage: "astropaper-og.jpg",
+  desc: "Personal blog of Le-Minerva.",
+  title: "Le-Minerva's Blog",
+  ogImage: "/blog/public/astropaper-og.jpg",
   lightAndDarkMode: true,
-  postPerIndex: 4,
-  postPerPage: 3,
+  postPerIndex: 4, //4 blogs on index
+  postPerPage: 3, //3 blogs per page
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
 };
 
