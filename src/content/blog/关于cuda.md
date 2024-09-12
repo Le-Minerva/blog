@@ -9,6 +9,7 @@ tags:
   - cuda
 description: 关于cuda的一些基本知识
 ---
+
 # 关于cuda
 
 GPU特别擅长处理图像数据，而CUDA（Compute Unified Device Architecture），是显卡厂商NVIDIA推出的运算平台。CUDA™是一种由NVIDIA推出的通用[并行计算](https://zhida.zhihu.com/search?q=并行计算&zhida_source=entity&is_preview=1)架构，该架构使GPU能够解决复杂的计算问题。它包含了CUDA指令集架构（ISA）以及GPU内部的并行计算引擎，安装cuda之后，可以加快GPU的运算和处理速度，还有一个叫做cudnn，是针对深度卷积神经网络的加速库
