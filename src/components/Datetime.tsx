@@ -58,7 +58,7 @@ const FormattedDatetime = ({ pubDatetime, modDatetime }: DatetimesProps) => {
     day: "numeric",
   });
 
-  const time = myDatetime.toLocaleTimeString("zh", {
+  const time = myDatetime.toLocaleTimeString("en", {
     hour: "2-digit",
     minute: "2-digit",
   });

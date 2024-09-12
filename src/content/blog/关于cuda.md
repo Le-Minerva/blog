@@ -1,6 +1,6 @@
 ---
 author: Le-Minerva
-pubDatetime: 2024-09-13T03:10:52.737Z
+pubDatetime: 2024-09-13T03:10:52.737
 title: 关于cuda
 slug: 关于cuda
 featured: true
