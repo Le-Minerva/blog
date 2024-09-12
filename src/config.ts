@@ -12,7 +12,7 @@ export const SITE: Site = {
   lightAndDarkMode: true,
   postPerIndex: 4, //4 blogs on index
   postPerPage: 3, //3 blogs per page
-  scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
+  scheduledPostMargin: (8 * 60 + 15) * 60 * 1000, // 8h 15 minutes
 };
 
 export const LOCALE = {
