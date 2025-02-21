@@ -9,7 +9,7 @@
       .svg-icon rect {
             fill: #4691f6;
             stroke: #4691f6;
-            stroke-width: 1.2; 
+            stroke-width: 1; 
         }
 
       .svg-icon circle {
